@@ -1,4 +1,4 @@
-import { afterEach, vi } from 'vitest'
+import { afterEach, expect, test} from 'vitest'
 import { getHighScores, saveHighScore } from '../lib/storage'
 
 afterEach(() => {

@@ -1,3 +1,4 @@
+import { expect, test } from 'vitest'
 import { shuffle } from '../lib/shuffle'
 
 test('shuffle returns new array of same length', () => {

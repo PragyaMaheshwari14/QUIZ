@@ -1,3 +1,4 @@
+import { expect, test } from 'vitest'
 import { loadQuestionsLocal, filterByDifficulty, pickRandomN } from '../lib/data'
 
 test('loadQuestionsLocal returns items', () => {
