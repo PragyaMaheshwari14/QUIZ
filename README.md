@@ -34,5 +34,5 @@ It allows users to practice quizzes with customizable difficulty, timer, and que
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/quizzer.git
-cd quizzer
+cd quiz
 
